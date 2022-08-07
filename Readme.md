@@ -25,11 +25,11 @@ mvn clean install  -DskipTests
 ## Run
 
 Either of below run
-```mvn spring-boot:run```
+``` mvn spring-boot:run ```
 
 OR
 
-```java -jar cowintslots-0.0.1-SNAPSHOT.war```
+``` java -jar cowintslots-0.0.1-SNAPSHOT.war ```
 
 
 OR
