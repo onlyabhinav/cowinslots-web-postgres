@@ -2,13 +2,13 @@
 # Cowinslots with Web, War, Postgres
 
 
-## Run below command to perform maven build. 
+### Run below command to perform maven build. 
 
 ```
 mvn clean install  -DskipTests
 ```
 
-## Update Below properties in ```application.properties```
+### Update Below properties in ```application.properties```
 
 ```
 spring.datasource.platform=postgres
