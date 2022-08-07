@@ -14,6 +14,6 @@ mvn clean install  -DskipTests
 spring.datasource.platform=postgres
 spring.datasource.url=jdbc:postgresql://localhost:5432/abhin
 spring.datasource.username=abhin
-spring.datasource.password=1111
+spring.datasource.password=****
 ```
 
